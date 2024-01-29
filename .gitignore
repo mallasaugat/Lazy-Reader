@@ -1,0 +1,7 @@
+Books_5.json.gz
+DataSets/
+py/
+.DS_Store
+.ipynb_checkpoints/
+customerReviews/
+.vector_cache/
